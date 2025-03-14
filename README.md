@@ -32,7 +32,7 @@ The datasets utilized in this project include:
 
  - 📌 statewise_result.csv - Aggregated election results at the state level.
 
-## 🛠️ Tools & Technologies Used
+## 🛠️ Tools & Techniques Used
 
  - 🗄️ MS SQL Server - Database management and querying.
 
