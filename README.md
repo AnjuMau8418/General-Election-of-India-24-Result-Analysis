@@ -22,15 +22,15 @@ The primary objectives of this project are:
 
 The datasets utilized in this project include:
 
- - 🗺️ constituencywise_details.csv - Contains details of constituencies.
+ - constituencywise_details.csv - Contains details of constituencies.
 
- - 🏛️ constituencywise_results.csv - Results of elections at the constituency level.
+ - constituencywise_results.csv - Results of elections at the constituency level.
 
- - 📊 partywise_results.csv - Party-wise summary of results.
+ - partywise_results.csv - Party-wise summary of results.
 
- - 🌍 states.csv - State-wise metadata.
+ - states.csv - State-wise metadata.
 
- - 📌 statewise_result.csv - Aggregated election results at the state level.
+ - statewise_result.csv - Aggregated election results at the state level.
 
 ## 🛠️ Tools & Techniques Used
 
